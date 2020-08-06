@@ -1,0 +1,5 @@
+commit fc4efe8f5b865a5edd27b8b1fc9ff252cb13777a
+Author: motinados <69296148+motinados@users.noreply.github.com>
+Date:   Fri Aug 7 06:38:55 2020 +0900
+
+    add dragStepSize (#1449)
